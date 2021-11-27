@@ -1,6 +1,6 @@
 open class Car(var brand: String, var model: String, var years: Int) {
     fun drive() {
-        println("This car is safe drive!")
+        println("This car is safe to drive!")
     }
 }
 
