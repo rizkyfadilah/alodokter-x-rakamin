@@ -1,1 +1,13 @@
-tes
+class Car(var brand : String,var model: String,val year: Int) {
+    fun drive(speed: Int){
+        println("Mobil $model sedang melaju dengan kecepatan ${speed}km/s")
+    }
+}
+
+fun main() {
+    val myCar = Car("Honda","Jazz",2017)
+    println(myCar.brand)
+    println(myCar.model)
+    println(myCar.year)
+    myCar.drive(120)
+}
