@@ -1,7 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19430012-85de-4085-9388-6a148ada5af4" name="Default Changelist" comment="" />
+    <list default="true" id="19430012-85de-4085-9388-6a148ada5af4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dummy Text.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/.idea/libraries/KotlinJavaRuntime__2_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/KotlinOOP.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/KotlinOOP/Address.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/KotlinOOP/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/KotlinOOP/AnimalKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/KotlinOOP/Boss.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/KotlinOOP/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/KotlinOOP/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/KotlinOOP/EmployeeKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/KotlinOOP/Go$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/KotlinOOP/Go.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/KotlinOOP/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/KotlinOOP/HumanKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/KotlinOOP/Interaction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/KotlinOOP/KendaraanKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/KotlinOOP/LambdaExpressionKt$main$lambdaName$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/KotlinOOP/LambdaExpressionKt$main$simpleLambda$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/KotlinOOP/LambdaExpressionKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/KotlinOOP/META-INF/KotlinOOP.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/KotlinOOP/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/KotlinOOP/Manager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/KotlinOOP/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/KotlinOOP/PersonKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/KotlinOOP/Tiger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/KotlinOOP/Truck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/KotlinOOP/VicePresident.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/src/main/kotlin/Address.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/src/main/kotlin/Animal.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/src/main/kotlin/Employee.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/src/main/kotlin/Human.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/src/main/kotlin/Kendaraan.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/src/main/kotlin/LambdaExpression.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/src/main/kotlin/Person.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/src/main/kotlin/Practice.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/src/main/kotlin/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../group-2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../main" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../rizkyfadilah" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +62,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
   <component name="ProjectId" id="21TsYMBkUxfRipSTQYwwoWjvIrO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,6 +74,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager" selected="Application.KendaraanKt">
     <configuration name="AnimalKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
@@ -110,5 +162,17 @@
       <updated>1637976462476</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
