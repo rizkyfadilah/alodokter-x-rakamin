@@ -1,16 +1,17 @@
-class Car(name: String)
-class Truck(name: String)
+class Car(val name: String)
+class Truck(val name: String)
 
 fun typeObject(any: Any) {
     if (any is Car) {
-        println("Print a car of $any")
+        println("Print a car of ${any.name}")
     } else if (any is Truck) {
-        println("Print a truck of $any")
+        println("Print a truck of ${any.name}")
     }
 }
 
-fun print(){
-
+fun printString(any: Any){
+    val value = any as? String
+    println(value)
 }
 
 fun main(){
@@ -20,4 +21,7 @@ fun main(){
 
     typeObject(car)
     typeObject(truck)
+
+    printString("Evandio")
+    printString(123)
 }

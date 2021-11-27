@@ -6,7 +6,7 @@ open class Employee(val name: String){
 
 class Manager(name: String): Employee(name){
     fun parking(){
-
+        println("${this.name} parked his car in the manager spot")
     }
 
     override fun hello(name: String) {
@@ -14,12 +14,14 @@ class Manager(name: String): Employee(name){
     }
 }
 class VicePresident(name: String): Employee(name)
-class Boss(name: String): Employee(name)
 
 fun main() {
     val evandio = Manager("Evandio")
+    evandio.parking()
     evandio.hello("Bob")
 
     val udin = VicePresident("Udin")
     udin.hello("Martin")
+
+
 }

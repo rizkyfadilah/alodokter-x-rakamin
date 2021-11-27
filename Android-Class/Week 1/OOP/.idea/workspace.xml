@@ -3,51 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="19430012-85de-4085-9388-6a148ada5af4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Dummy Text.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OOP/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OOP/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OOP/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OOP/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OOP/.idea/libraries/KotlinJavaRuntime__2_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OOP/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OOP/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OOP/KotlinOOP.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/KotlinOOP/Address.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/KotlinOOP/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/KotlinOOP/AnimalKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/KotlinOOP/Boss.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/KotlinOOP/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/KotlinOOP/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/KotlinOOP/EmployeeKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/KotlinOOP/Go$DefaultImpls.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/KotlinOOP/Go.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/KotlinOOP/Human.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/KotlinOOP/HumanKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/KotlinOOP/Interaction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/KotlinOOP/KendaraanKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/KotlinOOP/LambdaExpressionKt$main$lambdaName$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/KotlinOOP/LambdaExpressionKt$main$simpleLambda$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/KotlinOOP/LambdaExpressionKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/KotlinOOP/META-INF/KotlinOOP.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/KotlinOOP/MainKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/KotlinOOP/Manager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/KotlinOOP/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/KotlinOOP/PersonKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/KotlinOOP/Tiger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/KotlinOOP/Truck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/KotlinOOP/VicePresident.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OOP/src/main/kotlin/Address.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OOP/src/main/kotlin/Animal.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OOP/src/main/kotlin/Employee.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OOP/src/main/kotlin/Human.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OOP/src/main/kotlin/Kendaraan.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OOP/src/main/kotlin/LambdaExpression.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OOP/src/main/kotlin/Person.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OOP/src/main/kotlin/Practice.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OOP/src/main/kotlin/main.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../group-2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../main" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../rizkyfadilah" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Address.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Address.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Animal.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Animal.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Employee.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Employee.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Human.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Human.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Kendaraan.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Kendaraan.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/LambdaExpression.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/LambdaExpression.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Practice.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Practice.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +38,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.KendaraanKt">
+  <component name="RunManager" selected="Application.PracticeKt">
     <configuration name="AnimalKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="KotlinOOP" />
       <option name="VM_PARAMETERS" />
@@ -129,14 +91,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LambdaExpressionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="PracticeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="KotlinOOP" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="LambdaExpressionKt" />
+      <option name="MAIN_CLASS_NAME" value="PracticeKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -144,10 +106,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.KendaraanKt" />
-        <item itemvalue="Application.LambdaExpressionKt" />
-        <item itemvalue="Application.AnimalKt" />
+        <item itemvalue="Application.PracticeKt" />
         <item itemvalue="Application.HumanKt" />
+        <item itemvalue="Application.AnimalKt" />
+        <item itemvalue="Application.KendaraanKt" />
         <item itemvalue="Application.EmployeeKt" />
       </list>
     </recent_temporary>

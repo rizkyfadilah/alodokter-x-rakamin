@@ -12,4 +12,6 @@ class Tiger(name: String): Animal() {
 
 fun main(){
     val tiger = Tiger("Tiger")
+    println(tiger.name)
+    tiger.run()
 }
